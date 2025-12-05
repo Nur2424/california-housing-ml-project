@@ -1,0 +1,40 @@
+# -----------------------------
+# Python cache & artifacts
+# -----------------------------
+__pycache__/
+*.pyc
+*.pyo
+
+# -----------------------------
+# Jupyter Notebook checkpoints
+# -----------------------------
+.ipynb_checkpoints/
+
+# -----------------------------
+# Virtual environment folders
+# -----------------------------
+env/
+venv/
+.venv/
+
+# -----------------------------
+# Model artifacts
+# -----------------------------
+*.joblib
+*.pkl
+*.h5
+*.onnx
+
+# -----------------------------
+# Local datasets & archives
+# -----------------------------
+datasets/
+*.csv
+*.tgz
+*.zip
+
+# -----------------------------
+# OS-specific files
+# -----------------------------
+.DS_Store
+Thumbs.db
